@@ -101,17 +101,17 @@ p {
     color: #ffffff;
 }
 
-.benefit-lead h3 {
+.benefit-lead h4 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand h3 {
+.benefit-brand h4 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-cost h3 {
+.benefit-cost h4 {
     margin-bottom: 10px;
     text-align: center;
 }
@@ -195,6 +195,6 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+.footer h5 {
     font-size: 20px;
 }
