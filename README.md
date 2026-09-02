@@ -899,6 +899,7 @@ Målet er, at siden fungerer på både store og små skærme uden unødvendig va
 
 ## Læringsmål
 
+
 Du skal kunne:
 
 - analysere et eksisterende float-baseret layout
